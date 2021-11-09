@@ -1,0 +1,13 @@
+name: Budweiser
+title: Budweiser
+username:
+account: pytcs0-joaquin-dominguez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5073387
+bundleId: 5228932
+url: https://pytcs0-joaquin-dominguez.shinyapps.io/Budweiser/
+when: 1636407502.37401
+lastSyncTime: 1636407502.37402
+asMultiple: FALSE
+asStatic: FALSE
